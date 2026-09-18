@@ -334,17 +334,24 @@ Based on the simulated 23-record dataset:
 These findings describe only the simulated classroom dataset and should not be read as real-world epidemiological conclusions.
 ## Project Screenshots
 
-### Outbreak Summary
-
-![Outbreak Summary](screenshots/outbreak_summary.png)
 
 ### Risk Classification
 
-![Risk Classification](screenshots/risk_classification.png)
+<img width="792" height="158" alt="risk classification 3" src="https://github.com/user-attachments/assets/a31f2e20-3d22-478a-8221-68ac7e57e213" />
+<img width="1197" height="747" alt="risk classification 2" src="https://github.com/user-attachments/assets/b450ce2f-2421-4522-9586-13a64b994f01" />
+<img width="728" height="765" alt="risk classification 4" src="https://github.com/user-attachments/assets/88727845-0974-41e2-ade2-993413804b2a" />
+
+
+
 
 ### Data Validation
 
-![Data Validation](screenshots/data_validation.png)
+<img width="662" height="662" alt="Data validation" src="https://github.com/user-attachments/assets/3090450e-4325-4179-877a-4df4f0a0179b" />
+<img width="997" height="735" alt="data validation 2" src="https://github.com/user-attachments/assets/44074784-3d8f-4d99-aa2f-32458d09d6d3" />
+
+
+### Outbreak Summary
+<img width="1155" height="653" alt="Final summary report" src="https://github.com/user-attachments/assets/ff9b0373-8b2a-4bcb-9050-9bd1873267dc" />
 
 
 ## Limitations

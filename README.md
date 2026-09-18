@@ -332,6 +332,20 @@ Based on the simulated 23-record dataset:
 8. Four records are excluded from analysis because they fail validation.
 
 These findings describe only the simulated classroom dataset and should not be read as real-world epidemiological conclusions.
+## Project Screenshots
+
+### Outbreak Summary
+
+![Outbreak Summary](screenshots/outbreak_summary.png)
+
+### Risk Classification
+
+![Risk Classification](screenshots/risk_classification.png)
+
+### Data Validation
+
+![Data Validation](screenshots/data_validation.png)
+
 
 ## Limitations
 
